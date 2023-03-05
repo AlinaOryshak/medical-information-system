@@ -1,4 +1,4 @@
-package mis.medicalinformationsystem;
+package mis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
